@@ -2,7 +2,9 @@ const accountId = 144553
 let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
 accountCity = "Jaipur"
+shortcut to black the chrome tab and url in chrome
 let accountState; // variable declaration
+
 
 // accountId = 2 // not allowed
 
